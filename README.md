@@ -7,7 +7,7 @@ Proyecto desarrollado para la tarea S2-TAREA_1 de la asignatura **Desarrollo Web
 El objetivo es presentar mi perfil académico y profesional, mis habilidades técnicas y mis
 proyectos destacados, aplicando HTML5 semántico, CSS propio y JavaScript.
 
-**Sitio publicado:** _(enlace de GitHub Pages pendiente)_
+**Sitio publicado:** https://kevinnaran07-sudo.github.io/portafolioWeb/
 
 ## Tecnologías
 
@@ -55,7 +55,7 @@ proyectos destacados, aplicando HTML5 semántico, CSS propio y JavaScript.
   También puedes usar la extensión Live Server de VS Code.
 
 ```bash
-git clone https://github.com/USUARIO/portafolio-web-kevin.git
+git clone https://github.com/kevinnaran07-sudo/portafolioWeb.git
 ```
 
 ## Capturas
