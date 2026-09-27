@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#e4e2da"/>
+  <rect x="40" y="40" width="560" height="280" rx="6" fill="none" stroke="#9d9b93" stroke-width="3" stroke-dasharray="12 10"/>
+  <text x="320" y="190" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" fill="#6f6f6b">Captura próximamente</text>
+</svg>
