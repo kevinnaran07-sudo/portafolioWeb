@@ -3,9 +3,10 @@
 Portafolio web personal e interactivo de **Kevin Favio Naranjo Morán**, estudiante de
 Ingeniería en Software en la Universidad Estatal de Milagro (UNEMI).
 
-Proyecto desarrollado para la tarea S2-TAREA_1 de la asignatura **Desarrollo Web [ISO08DW]**.
-El objetivo es presentar mi perfil académico y profesional, mis habilidades técnicas y mis
-proyectos destacados, aplicando HTML5 semántico, CSS propio y JavaScript.
+Proyecto realizado en la asignatura **Desarrollo Web**. Diseñé y programé este sitio desde
+cero para presentar mi perfil académico y profesional, mis habilidades técnicas y mis
+proyectos destacados. En él apliqué HTML5 semántico, un sistema de estilos propio con
+variables CSS, diseño responsive y funcionalidades interactivas con JavaScript.
 
 **Sitio publicado:** https://kevinnaran07-sudo.github.io/portafolioWeb/
 
