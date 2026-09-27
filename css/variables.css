@@ -1,0 +1,93 @@
+/* ==========================================================================
+   Variables del sistema visual — Portafolio Kevin Naranjo
+   Todas las decisiones de diseño se definen aquí y se reutilizan en style.css
+   ========================================================================== */
+
+:root {
+  /* Colores */
+  --color-primary: #2f5d4e;          /* verde bosque: acento principal */
+  --color-primary-hover: #24473c;
+  --color-on-primary: #ffffff;       /* texto sobre el color primario */
+  --color-secondary: #4a4a48;        /* gris piedra */
+  --color-background: #fafaf8;
+  --color-surface: #f0efe9;          /* tono cálido para superficies */
+  --color-text: #202020;
+  --color-text-muted: #6f6f6b;
+  --color-border: #d6d4cb;
+  --color-success: #2e7d32;
+  --color-error: #b3261e;
+  --color-overlay: rgb(0 0 0 / 0.45);
+
+  /* Tipografía */
+  --font-primary: 'Inter', 'Segoe UI', Arial, sans-serif;
+  --font-mono: Consolas, 'Courier New', monospace;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-h3: 1.25rem;
+  --font-size-h2: clamp(1.5rem, 1.25rem + 1vw, 2rem);
+  --font-size-h1: clamp(2.125rem, 1.6rem + 2.2vw, 3.25rem);
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --line-height-base: 1.65;
+  --line-height-tight: 1.2;
+
+  /* Espaciado */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+  --space-xl: 4rem;
+
+  /* Bordes */
+  --border-width: 1px;
+  --border-width-strong: 2px;
+  --border-accent: 4px;
+  --radius-sm: 0.25rem;              /* bordes rectos */
+  --radius-md: 0.5rem;
+  --radius-pill: 999px;              /* solo para el switch de tema */
+
+  /* Sombras */
+  --shadow-card: 0 2px 8px rgb(0 0 0 / 0.12);
+  --shadow-card-hover: 0 10px 20px rgb(0 0 0 / 0.14);
+  --shadow-drawer: 4px 0 16px rgb(0 0 0 / 0.18);
+
+  /* Tamaños */
+  --container-max: 72rem;
+  --header-height: 4rem;
+  --drawer-width: min(18rem, 82vw);
+  --photo-width: clamp(13rem, 32vw, 21rem);
+  --control-height: 2.75rem;
+  --switch-width: 3.25rem;
+  --switch-height: 1.75rem;
+  --icon-size: 2.25rem;
+  --lift: -4px;                      /* elevación de las cards en hover */
+
+  /* Movimiento */
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+}
+
+/* Modo oscuro: mismas variables, otros valores */
+[data-theme="dark"] {
+  --color-primary: #6fae96;          /* verde bosque aclarado */
+  --color-primary-hover: #8cc4ae;
+  --color-on-primary: #10201a;
+  --color-secondary: #b9b8b2;
+  --color-background: #141414;
+  --color-surface: #1f1f1d;
+  --color-text: #ecebe6;
+  --color-text-muted: #a3a29c;
+  --color-border: #34342f;
+  --color-success: #6cc070;
+  --color-error: #f28b82;
+  --color-overlay: rgb(0 0 0 / 0.6);
+
+  --shadow-card: 0 2px 8px rgb(0 0 0 / 0.5);
+  --shadow-card-hover: 0 10px 20px rgb(0 0 0 / 0.55);
+  --shadow-drawer: 4px 0 16px rgb(0 0 0 / 0.6);
+
+  color-scheme: dark;
+}
