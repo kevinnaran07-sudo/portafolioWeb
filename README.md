@@ -71,3 +71,6 @@ git clone https://github.com/kevinnaran07-sudo/portafolioWeb.git
 ## Autor
 
 **Kevin Naranjo** · Ingeniería en Software, UNEMI
+
+- Correo: [kevinnaran07@gmail.com](mailto:kevinnaran07@gmail.com)
+- GitHub: [kevinnaran07-sudo](https://github.com/kevinnaran07-sudo)

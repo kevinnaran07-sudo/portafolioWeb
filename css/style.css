@@ -1161,7 +1161,6 @@ p {
   gap: var(--space-lg);
 }
 
-.site-footer__pending,
 .site-footer__copy {
   margin: 0;
   color: var(--color-text-muted);
