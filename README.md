@@ -1,12 +1,14 @@
 # Portafolio Web Personal — Kevin Naranjo
 
-Portafolio web personal e interactivo de **Kevin Favio Naranjo Morán**, estudiante de
-Ingeniería en Software en la Universidad Estatal de Milagro (UNEMI).
+Soy **Kevin Favio Naranjo Morán** y estudio Ingeniería en Software en la Universidad
+Estatal de Milagro (UNEMI). Este repositorio contiene mi portafolio personal, un espacio
+donde reúno quién soy, las tecnologías con las que trabajo y los proyectos que he
+desarrollado durante la carrera.
 
-Proyecto realizado en la asignatura **Desarrollo Web**. Diseñé y programé este sitio desde
-cero para presentar mi perfil académico y profesional, mis habilidades técnicas y mis
-proyectos destacados. En él apliqué HTML5 semántico, un sistema de estilos propio con
-variables CSS, diseño responsive y funcionalidades interactivas con JavaScript.
+Lo construí como parte de la materia de **Desarrollo Web**, sin plantillas ni frameworks
+de estilos. Cada página está escrita con HTML semántico, los estilos parten de un sistema
+de variables CSS creado para este sitio y el comportamiento interactivo está hecho con
+JavaScript puro. Además, el diseño se adapta a computadoras, tablets y teléfonos.
 
 **Sitio publicado:** https://kevinnaran07-sudo.github.io/portafolioWeb/
 
