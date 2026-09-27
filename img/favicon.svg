@@ -1,4 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="8" fill="#2f5d4e"/>
-  <text x="32" y="42" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#fafaf8">KN</text>
+  <defs>
+    <clipPath id="k">
+      <rect x="0" y="13" width="64" height="36"/>
+    </clipPath>
+  </defs>
+  <rect width="64" height="64" rx="10" fill="#2f5d4e"/>
+  <g clip-path="url(#k)" fill="none" stroke="#fafaf8" stroke-width="7.5">
+    <path d="M15 6v50"/>
+    <path d="M44 6 15.5 34.5M24.5 25.5 43 54"/>
+  </g>
+  <rect x="45" y="44" width="12" height="5" fill="#8cc4ae"/>
 </svg>
